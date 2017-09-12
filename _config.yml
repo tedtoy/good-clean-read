@@ -1,7 +1,7 @@
 # Site settings
-title: Good Clean Read
-tag_text: Good Clean Read
-description: A responsive template for publishing single-page websites, articles that are easy on the eyes
+title: ThinkingDots
+tag_text: thinking dots
+description: visual rumination
 url: "http://127.0.0.1:4000"
 baseurl: ""
 
@@ -11,3 +11,5 @@ font-awesome-include: true # make this false if you don't need font-awesome
 markdown: kramdown
 
 exclude: ["README.md"]
+
+permalink: pretty
